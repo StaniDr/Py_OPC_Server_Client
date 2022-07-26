@@ -1,0 +1,4 @@
+OpcUa Test Server
+opc.tcp://localhost:4840
+http://localhost:4840
+Station
